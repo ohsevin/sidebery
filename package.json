@@ -61,7 +61,7 @@
     "vue-server-renderer": "2.6.12",
     "vue-template-compiler": "2.6.12",
     "vue-template-es2015-compiler": "1.9.1",
-    "web-ext": "6.0.0"
+    "web-ext": "8.0.0"
   },
   "dependencies": {
     "vue": "2.6.12",
